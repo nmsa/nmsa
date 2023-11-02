@@ -1,11 +1,8 @@
 Hi, I’m Nuno,
 
-I am a 37-year-old **software security engineer** looking for a new challenge in an organization that embraces security as paramount in their software development lifecycle.
+I am a 38-year-old **software engineer** working on the development of [AppSweep](https://appsweep.guardsquare.com/) at [Guardsquare](https://www.guardsquare.com/).
 
-> *For the last 7 years I have been an **Assistant Professor** at the [Department of Informatics Engineering](http://www.dei.uc.pt) of the [University of Coimbra](http://www.uc.pt). Recently, I decided to change career.*
-> 
-
-For over 15 years, I have been researching, developing and teaching software security, dependability, and reliability engineering. 
+Since 2007, I have been researching, developing and teaching software security, dependability, and reliability engineering. 
 
 My research has been helping software engineers to create secure systems through automated tools to find vulnerabilities and attacks, and also by proposing benchmarking approaches to select the best alternatives for their use.
 
@@ -16,7 +13,7 @@ I have applied these techniques in the industry through specialized services, co
 I am always interested in the behavior of technologies used in **business-critical** scenarios in the presence of **attacks** and **faults**. I keep an eye on newly reported vulnerabilities and incidents and I study the advantages/disadvantages that each new famous language/framework brings in terms of security.
 
 
-- 📫 Reach me at [nuno@ieee.org](mailto:nuno@ieee.org)
+- 📫 Reach me at [nantunes@pm.me](mailto:nantunes@pm.me)
 
 
 
